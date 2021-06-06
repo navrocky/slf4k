@@ -1,3 +1,5 @@
+<img src="https://github.com/navrocky/slf4k-api/actions/workflows/test.yml/badge.svg" alt="Test status"/>
+
 # Simple Logging Facade for Kotlin (SLF4K)
 
 This is a multiplatform library analog of famous SLF4J from JVM world.
